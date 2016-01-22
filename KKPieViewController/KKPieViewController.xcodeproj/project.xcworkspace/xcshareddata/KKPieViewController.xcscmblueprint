@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F06076A519336A4C212EED0A52A88CDEE51E16D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F06076A519336A4C212EED0A52A88CDEE51E16D4" : 0,
+    "84E943D18623F23F261EB5691FBA677827285459" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D23A2186-01AB-43B3-8D7B-3C403AC40C68",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F06076A519336A4C212EED0A52A88CDEE51E16D4" : "KKPieViewController\/",
+    "84E943D18623F23F261EB5691FBA677827285459" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KKPieViewController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KKPieViewController\/KKPieViewController.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SolsticeConsulting\/Discover-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "84E943D18623F23F261EB5691FBA677827285459"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/karthik553\/KKPieViewController",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F06076A519336A4C212EED0A52A88CDEE51E16D4"
+    }
+  ]
+}
